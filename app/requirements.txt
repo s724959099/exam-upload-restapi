@@ -1,0 +1,7 @@
+uvicorn[standard]
+pytest
+pytest-asyncio
+sqlmodel
+itsdangerous
+aiofiles
+python-multipart
